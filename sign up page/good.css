@@ -1,0 +1,28 @@
+body{
+background-color:white;
+text-align:center;
+
+
+}
+#form{
+text-align:left;
+border: 3px solid green;
+background: green;
+border-radius:10px;
+margin:auto;
+width:460px;
+padding: 0 20px 20px 20px;
+ line-height: 1.8;
+
+}
+li{
+list-style:none;
+
+
+}
+label{
+display:inline-block;
+width:150px;
+  font-weight: bold;
+ 
+}

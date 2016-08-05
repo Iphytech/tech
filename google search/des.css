@@ -1,0 +1,13 @@
+#design{
+margin:auto;
+padding: 30px;
+background-color:green;
+border-radius:10px;
+width:600px;
+height:300px;
+ box-sizing: border-box;
+font-weight:bold; 
+}
+h1{
+text-align:center;
+}
